@@ -1,4 +1,1 @@
-Ok.Ru (Dark-Grey+AdsOff) by Αλΰγξίπ
-
-# BlagoYar
-# BlagoYar
+Ok.Ru (Dark-Grey+AdsOff) by Π‘Π»Π°Π³ΠΎΠ―Ρ€
