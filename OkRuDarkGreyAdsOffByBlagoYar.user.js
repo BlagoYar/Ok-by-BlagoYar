@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Ok (Dark-Gray+AdsOff) by БлагоЯр
+// @name          Ok.Ru (Dark-Gray+AdsOff) by БлагоЯр
 // @namespace     userstyle
 // @run-at        document-start
 // @grant         GM_addStyle
